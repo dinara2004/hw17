@@ -42,10 +42,9 @@ public class Main {
                     }
                     System.out.println();
                 }
-                Animal[] reptile = {turtle};
-                Animal[] fish = {shark};
-                Animal[] bird = {eagle};
-
+                Shark[] sharks = {(Shark) animals[1]};
+                Eagle[] eagles = {(Eagle) animals[1]};
+                Turtle[] turtles = {(Turtle) animals[1]};
 
 
 
